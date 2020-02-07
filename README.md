@@ -10,7 +10,7 @@ We are Jay & Cris, your pool operators. We believe in Cardano's mission and we w
 ### Fee Structure
 Our fee structure is very simple, a variable **3%  fee** on rewards.
 
-We don't chage a fix fee. We don't set up a cap on the tax.
+No fix fee. No maximum cap on tax rewards.
 
 ### Why delegate to us?
 
