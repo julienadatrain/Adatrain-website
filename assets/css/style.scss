@@ -4,9 +4,10 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  background: #12c2e9!important; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #12c2e9, #c471ed, #f64f59)!important; /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59)!important; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #23074d!important;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #cc5333, #23074d)!important;  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #cc5333, #23074d)!important; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
   }
 
 .footer {
