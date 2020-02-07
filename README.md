@@ -14,11 +14,11 @@ No fix fee. No maximum cap on tax rewards.
 
 ### Why delegate to us?
 
- 1. **LOW FEES**: With our fee set at 3%, you will maximise your staking rewards.
- 2. **FAST DEDICATED SERVER**: we run our pools on reliable, redundant virtual private servers located in Amsterdam, Frankfurt and London. 24/7 Guarantee
- 3. **MONITORED**: We continuously check our pool's performance via monitoring tools and alerts.
- 4. **UP TO DATE**: We make sure to always run the latest versions of the program, and keep our stake pools well maintained.
- 5. **SELF-PLEDGE**: We will self pledge to our pools which gives us the incentive to achieve the best performance possible.
+ 1. **Low fees**: With our fee set at 3%, you will maximise your staking rewards.
+ 2. **Dedicated server**: we run our pools on reliable, redundant virtual private servers located in Amsterdam, Frankfurt and London. 24/7 Guarantee
+ 3. **24/7 Monitored**: We continuously check our pool's performance via monitoring tools and alerts.
+ 4. **Up to date**: We make sure to always run the latest versions of the program, and keep our stake pools well maintained.
+ 5. **Self pledge**: We will self pledge to our pools which gives us the incentive to achieve the best performance possible.
 
 ### News
 
