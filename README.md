@@ -1,6 +1,7 @@
 ### Our Live Cardano Stake Pools:
 
-Hi! We believe in Cardano's mission and we want to support the network by running stake pools (validating nodes).
+Hello!
+We are Jay & Cris, your pool operators. We believe in Cardano's mission and we want to support the network by running stake pools (validating nodes).
 
 ### Live Train Pools
 
