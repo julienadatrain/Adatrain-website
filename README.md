@@ -1,6 +1,6 @@
 # Our Live Cardano Stake Pools:
 
-Hi! I am **Julien**, the driver of the Ada Train (AKA I'm your pool operator).
+Hi! I am **Jay**, the driver of the Ada Train (AKA I'm your pool operator).
 
 We believe Cardano has potential to change the world and we want to support the network and Charles vision by running stake pools (validating nodes).
 
@@ -24,3 +24,6 @@ We don't chage a fix fee. We don't set up a cap on the tax.
 ## News
 
 - 7 February 2020: Upgraded the server to achieve better performance.
+
+## Contact
+If you have any questions or concerns about this pool you can find me in Telegram under the name @jay_n_t in all the relevant Cardano channels.
