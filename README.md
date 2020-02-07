@@ -5,7 +5,7 @@ We are Jay & Cris, your pool operators. We believe in Cardano's mission and we w
 
 ### Live Train Pools
 
- - Ticker: ADAT | Location: Amsterdam
+ - Ticker: ADAT | Location: Amsterdam | [Viw on pooltool.io](https://pooltool.io/pool/35f2a4efb4d995ba72a493c7be6d553c555f8232ef4e9e9e19c968a9cbf2246b)
 
 ### Fee Structure
 Our fee structure is very simple, a variable **3%  fee** on rewards.
@@ -27,3 +27,7 @@ No fix fee. No maximum cap on tax rewards.
 ### Contact
 
 If you have any questions or concerns about this pool you can find me in Telegram under the name @jay_n_t in all the relevant Cardano channels.
+
+### Links
+
+[How to delegate your stake](https://staking.cardano.org/en/delegation/)
