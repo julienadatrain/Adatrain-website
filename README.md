@@ -1,4 +1,4 @@
-### Our Live Cardano Stake Pools:
+### Blue & Red Cardano Stake Pools:
 
 Hello!
 
@@ -6,28 +6,27 @@ We are Jay & Cris, your pool operators. We believe in Cardano's mission and we w
 
 ### Live Train Pools
 
- Ticker: ADAT | Location: Amsterdam | [View on pooltool.io](https://pooltool.io/pool/35f2a4efb4d995ba72a493c7be6d553c555f8232ef4e9e9e19c968a9cbf2246b)
+ Ticker: Blue | Location: Amsterdam
+ Ticker: Red | Location: Frankfurt 
 
 ### Fee Structure
-Our fee structure is very simple, a variable **3%  fee** on rewards.
 
-No fix fee. No maximum cap on tax rewards.
+Our fee structure is very simple, a variable **2%  fee ** on rewards.
 
 ### Why delegate to us?
 
- 1. **Low fees**: With our fee set at 3%, you will maximise your staking rewards.
- 2. **Dedicated server**: we run our pools on reliable, redundant virtual private servers located in Amsterdam, Frankfurt and London. 24/7 Guarantee
+ 1. **Low fees**: With our fee set at 2%, you will maximise your staking rewards.
+ 2. **Dedicated server**: we run our pools on reliable, virtual private servers located in Amsterdam, Frankfurt and London. 24/7 Guarantee
  3. **24/7 Monitored**: We continuously check our pool's performance via monitoring tools and alerts.
  4. **Up to date**: We make sure to always run the latest versions of the program, and keep our stake pools well maintained.
- 5. **Self pledge**: We will self pledge to our pools which gives us the incentive to achieve the best performance possible.
+ 5. **Self pledge**: We will self pledge 1M Ada to each of our pools which gives us the incentive to achieve the best performance possible.
 
 ### News
 
-- 7 February 2020: Upgraded the server to achieve better performance.
 
 ### Contact
 
-Have questions, need support, or just want to hang out and talk Cardano? Find me on telegram @jay_n_t in all the relevant Cardano channels.
+Have questions, need support, or just want to hang out and talk Cardano? Find me on telegram @jay_and_cris in all the relevant Cardano channels.
 
 ### Links
 
