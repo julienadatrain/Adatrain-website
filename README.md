@@ -1,17 +1,16 @@
-### Blue & Red Cardano Stake Pools:
+### Discovery Stake Pool:
 
 Hello!
 
-We are Jay & Cris, your pool operators. We believe in Cardano's mission and we want to support the network by running stake pools (validating nodes).
+We are Jay & Cris, your pool operators. We believe in Cardano's mission and we want to support the network by running a stake pool (a validating node).
 
 ### Live Train Pools
 
- Ticker: Blue | Location: Amsterdam
- Ticker: Red | Location: Frankfurt 
+ Ticker: DIVY | Location: Amsterdam
 
 ### Fee Structure
 
-Our fee structure is very simple, a variable **2%  fee ** on rewards.
+Our fee structure is very simple, a variable 2%  fee on rewards.
 
 ### Why delegate to us?
 
