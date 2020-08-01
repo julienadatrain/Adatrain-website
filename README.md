@@ -4,7 +4,7 @@ Hello!
 
 We are Jay & Cris, your pool operators. We believe in Cardano's mission and we want to support the network by running a stake pool (a validating node).
 
-### Live Train Pools
+### Live Stake Pools
 
  Ticker: DIVY | Location: Amsterdam
 
