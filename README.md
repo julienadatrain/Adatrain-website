@@ -10,9 +10,9 @@ We are Jay & Cris, your pool operators. We believe in Cardano's mission and we w
  
  ### Relay List
  
-- blue.adatrain.com:6003
-- red.adatrain.com:6003
-- purple.adatrain.com:6003
+- blue.adatrain.com:6003 (ASIA)
+- red.adatrain.com:6003 (EUROPE)
+- purple.adatrain.com:6003 (USA)
  
 
 ### Fee Structure
@@ -22,10 +22,10 @@ Our fee structure is very simple, a variable 2%  fee on rewards.
 ### Why delegate to us?
 
  1. **Low fees**: With our fee set at 2%, you will maximise your staking rewards.
- 2. **Dedicated server**: we run our pools on reliable, virtual private servers located in Amsterdam, Frankfurt and London. 24/7 Guarantee
+ 2. **Dedicated server**: we run our pools on reliable, virtual private servers located in Amsterdam, Singapor and New York. 24/7 Guarantee
  3. **24/7 Monitored**: We continuously check our pool's performance via monitoring tools and alerts.
  4. **Up to date**: We make sure to always run the latest versions of the program, and keep our stake pools well maintained.
- 5. **Self pledge**: We will self pledge 1M Ada to each of our pools which gives us the incentive to achieve the best performance possible.
+ 5. **Self pledge**: We will self pledge 2M Ada to our pools which gives us the incentive to achieve the best performance possible.
 
 ### News
 
