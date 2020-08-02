@@ -8,7 +8,7 @@ We are Jay & Cris, your pool operators. We believe in Cardano's mission and we w
 
  Ticker: DIVY | Location: Amsterdam
  
- ### Relay
+ ### Relay List
  
 - blue.adatrain.com:6003
 - red.adatrain.com:6003
