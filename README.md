@@ -10,9 +10,9 @@ We are Jay & Cris, your pool operators. We believe in Cardano's mission and we w
  
  ### Relay
  
- blue.adatrain.com:6003
- red.adatrain.com:6003
- purple.adatrain.com:6003
+- blue.adatrain.com:6003
+- red.adatrain.com:6003
+- purple.adatrain.com:6003
  
 
 ### Fee Structure
