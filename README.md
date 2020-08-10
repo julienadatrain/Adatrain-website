@@ -1,5 +1,3 @@
-### DISCOVERY Stake Pool:
-
 Hello!
 
 We are Jay & Cris, your Discovery Pool operators. We were part of the ITN, running a stake pool on jormungandr for over 3 months (ticker: ADAT). We believe in Cardano's mission and we want to support the network by running a stake pool. Rewards will go towards maintaing and securing the nodes in their different locations across the world, as well as helping us with a much bigger project: driving around Africa to meet local producers and help them access the wider market by setting up, integrating and using the Cardano network. More information about our project here: https://bumpydetour.com/
@@ -8,7 +6,9 @@ We are Jay & Cris, your Discovery Pool operators. We were part of the ITN, runni
 
  Ticker: DIVY | Location: Amsterdam
  
- ### Relay List
+### Relay List
+
+We decided the locate our three relay nodes across the world to ensure fast block propagation across the network.
  
 - blue.adatrain.com:6003 (ASIA)
 - red.adatrain.com:6003 (EUROPE)
