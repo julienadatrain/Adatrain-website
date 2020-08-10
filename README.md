@@ -2,7 +2,7 @@
 
 Hello!
 
-We are Jay & Cris, your pool operators. We believe in Cardano's mission and we want to support the network by running a stake pool (a validating node). Rewards will go towards maintaing and securing the nodes in their different locations across the world.
+We are Jay & Cris, your Discovery Pool operators. We were part of the ITN, running a stake pool on jormungandr for over 3 months (ticker: ADAT). We believe in Cardano's mission and we want to support the network by running a stake pool. Rewards will go towards maintaing and securing the nodes in their different locations across the world, as well as helping us with a much bigger project: driving around Africa to meet local producers and help them access the wider market by setting up, integrating and using the Cardano network. More information about our project here: https://bumpydetour.com/
 
 ### Stake Pool
 
@@ -18,11 +18,11 @@ We are Jay & Cris, your pool operators. We believe in Cardano's mission and we w
 
 The fixed fee is set to 340, the minimum.
 
-Currently, to increase the number of delegators and delegated stake, and to showcase the performance of our setup, we have set the variable fee at 1%. This will change in between epochs 212 and 215, our fee structure will become a variable 2% fee on rewards.
+Currently, to increase the number of delegators and delegated stake, and to showcase the performance of our setup, we have set the variable fee at 0%. This will change in the futur epochs to ensure our pool's operations can be sustained in the long run. Our fee structure will become a variable 2% fee on rewards.
 
 ### Why delegate to us?
 
- 1. **Fees to maintain the network**: With our fee set at 2% (currently 1% to attract delegators), we hope to be able to secure and maintain all our nodes and associated relays.
+ 1. **Fees to maintain the network**: With our fee set at 2% (currently 0% to attract delegators), we will be able to secure and maintain all our nodes and associated relays.
  2. **Dedicated server**: we run our pools on reliable, virtual private servers located in Amsterdam, Singapore and New York.
  3. **24/7 Monitored**: We continuously check our pool's performance via monitoring tools and alerts.
  4. **Up to date**: We make sure to always run the latest versions of the program, and keep our stake pools well maintained.
@@ -35,7 +35,7 @@ Currently, to increase the number of delegators and delegated stake, and to show
 
 ### Contact us
 
-Have questions, need support, or just want to hang out and talk Cardano? Find me on telegram @jay_and_cris in all the relevant Cardano channels.
+Have questions, need support, or just want to hang out and talk Cardano? Find me on telegram @BP_jay in all the relevant Cardano channels, or on https://t.me/bumpydetour.
 
 ### Links
 
