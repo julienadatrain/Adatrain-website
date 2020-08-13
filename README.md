@@ -2,7 +2,7 @@ Hello!
 
 We are Jay & Cris, your Discovery Pool operators. Invested since 2017, we took part in the ITN, running a stake pool on jormungandr for over 3 months (ticker: ADAT).
 
-We believe in Cardano's mission and we want to support the network by running a stake pool. Rewards will go towards maintaing and securing the nodes in their different locations across the world, as well as helping us with a much bigger project: driving around Africa to meet local producers and help them access the wider market by setting up, integrating and using the Cardano network. More information about our project here: https://bumpydetour.com/
+We believe in Cardano's mission and we want to support the network by running a stake pool. Rewards will go towards maintaing and securing the nodes in their different locations across the world, as well as helping us with a much bigger project: driving around Africa to meet local producers and help them access the wider market by setting them up on the Cardano network. More information about our project here: https://bumpydetour.com/
 
 ### Stake Pool
 
@@ -15,6 +15,10 @@ We decided the locate our three relay nodes across the world to ensure fast bloc
 - blue.adatrain.com:6003 (ASIA)
 - red.adatrain.com:6003 (EUROPE)
 - purple.adatrain.com:6003 (USA)
+
+### Future
+
+We plan to add and run an additional 2 relays as well as upgrade our current setup (more RAM/DISK).
 
 ### Fee Structure
 
@@ -31,7 +35,9 @@ Currently, to increase the number of delegators and delegated stake, and to show
  5. **2M Self pledge**: We self pledged 2M Ada to our pools which gives us the incentive to achieve the best performance possible, as well as secure our setup.
 
 ### Latest News
-- epoch 209: All systems running properly and up to date. Discovery Stake Pool is now appearing in Daedalus.
+
+- epoch 210: All systems are running properly and up to date. Staked Ada increased from 6.4 to 11.2M - thank you for delegating to our pool.
+- epoch 209: All systems are running properly and up to date. Discovery Stake Pool is now appearing in Daedalus.
 - epoch 208: Discovery Stake Pool + 3 Relay Nodes are live and running. We have sadly been affected by the Daedalus bug and our pool did not appear in the list.
 
 
