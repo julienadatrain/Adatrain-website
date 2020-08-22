@@ -35,7 +35,7 @@ Currently, to increase the number of delegators and delegated stake, and to show
  5. **2M Self pledge**: We self pledged 2M Ada to our pools which gives us the incentive to achieve the best performance possible, as well as secure our setup.
 
 ### Latest News
-- epoch 212: First block created on August 19th! - you will not only get our thank you for your support, but real ada rewards too :-)
+- epoch 212: All systems are running properly and updated to the latest version. First block created on August 19th! 6 blocks created in total so far. For this epoch, you will not only get our thank you for your support, but real ada rewards too :-)
 - epoch 211: All systems are running properly and up to date. We were hoping to create our first block during epoch 211 but the lottery was not with us unfortunately.
 - epoch 210: All systems are running properly and up to date. Active staked Ada increased from 6.4 to 11.2M - thank you for delegating to our pool.
 - epoch 209: All systems are running properly and up to date. Discovery Stake Pool is now appearing in Daedalus.
