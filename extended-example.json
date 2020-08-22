@@ -8,11 +8,11 @@
             "telegram_handle": "BP_Jay"
         },
         "company": {
-            "name": "Bumpy Detour"
+            "name": "Bumpy Detour - Leave the main roads... take the trails"
         },
         "about": {
-            "me": "Adventurers, investors and world travellers. We want to make the world a better place.",
-            "server": "Secure, reliable, across 3 continents"
+            "me": "We are Jay and Cris, your DIVY pool operators. We started learning about Cardano in 2017, we ran the ADAT stakepool on the ITN and we are always looking to help the project grow, in every way possible. We are adventurers, investors and soon-to-be (in the next two years) world travellers. We want to make the world a better place.",
+            "server": "Dedicate Server(s). Secure, reliable, across 3 continents. Our pool and relays are running, and they are running well!"
         }
     },
     "my-pool-ids": [
