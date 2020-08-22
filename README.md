@@ -24,14 +24,14 @@ We plan to add and run an additional 2 relays as well as upgrade our current set
 
 The fixed fee is set to 340, the minimum.
 
-Currently, to increase the number of delegators and delegated stake, and to showcase the performance of our setup, we have set the variable fee at 0%. This will change in the futur epochs to ensure our pool's operations can be sustained in the long run. Our fee structure will become a variable 2% fee on rewards.
+Currently, to increase the number of delegators and delegated stake, and to showcase the performance of our setup, we have set the variable fee at 0%. This will change in the futur epochs to ensure our pool's operations can be sustained in the long run.
 
 ### Why delegate to us?
 
- 1. **Fees to maintain the network**: With our fee set at 2% (currently 0% to attract delegators), we will be able to secure and maintain all our nodes and associated relays.
+ 1. **0% Fees**: Currently set at 0%, our aim is always to provide you with the best returns. We will introduce a fee later, but for now, enjoy one of the highest ROI on the network!
  2. **Dedicated server**: we run our pools on reliable, virtual private servers located in Amsterdam, Singapore and New York.
  3. **24/7 Monitored**: We continuously check our pool's performance via monitoring tools and alerts.
- 4. **Up to date**: We make sure to always run the latest versions of the program, and keep our stake pools well maintained.
+ 4. **Up to date**: We make sure to always run the latest versions, and keep our stake pools well maintained and secured.
  5. **2M Self pledge**: We self pledged 2M Ada to our pools which gives us the incentive to achieve the best performance possible, as well as secure our setup.
 
 ### Latest News
