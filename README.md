@@ -7,7 +7,7 @@ We believe in Cardano's mission and we want to support the network by running a 
 
 ### Stake Pool
 
-Ticker: DIVY | Location: Amsterdam
+Ticker: DIVY
 
 ### Latest News
 
