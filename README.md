@@ -10,9 +10,13 @@ We believe in Cardano's mission and we want to support the network by running a 
 
 Ticker: DIVY
 
-### Latest Epoch Debrif: 212
+### Current Epoch
 
-All systems are running properly and updated to the latest version. First block created on August 19th! 6 blocks created in total so far. For this epoch, you will not only get our thank you for your support, but real ada rewards too :-)
+Epoch 213: Epoch transition happened with no issues. All systems go.
+
+### Latest Epoch
+
+Epoch 212: All systems ran properly and were updated to the latest version. First ever block created on August 19th, 6 blocks created in total.
  
 ### Relay List
 
