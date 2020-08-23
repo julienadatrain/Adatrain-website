@@ -46,11 +46,12 @@ Currently, to increase the number of delegators and delegated stake, and to show
 
 ### Archive per Epoch
 
-- epoch 211: All systems are running properly and up to date. We were hoping to create our first block during epoch 211 but the lottery was not with us unfortunately.
-- epoch 210: All systems are running properly and up to date. Active staked Ada increased from 6.4 to 11.2M - thank you for delegating to our pool.
-- epoch 209: All systems are running properly and up to date. Discovery Stake Pool is now appearing in Daedalus.
-- epoch 208: Discovery Stake Pool + 3 Relay Nodes are live and running. We have sadly been affected by the Daedalus bug and our pool did not appear in the list.
-
+| Epoch  | Update  |
+|---|---|
+|  211 | All systems operational. We were hoping to create our first block during epoch 211 but the lottery was not with us. |
+|  210 | All systems operational. Active staked Ada increased from 6.4 to 11.2M - thank you for delegating to our pool. |
+|  209 | All systems operational. Discovery Stake Pool is now appearing in Daedalus. |
+|  208 | Pool and relays are now live. Our pool was affected by the Daedalus bug and our pool did not appear in the pool list. |
 
 ### Contact us
 
