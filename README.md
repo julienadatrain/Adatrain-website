@@ -1,14 +1,17 @@
 
 ![Discovery](https://raw.githubusercontent.com/julienadatrain/ada-train/master/discovery.jpg "Discovery Pool")
 
-
 We are Jay & Cris, your Discovery Pool operators. Invested since 2017, we took part in the ITN, running a stake pool on jormungandr for over 3 months (ticker: ADAT).
 
 We believe in Cardano's mission and we want to support the network by running a stake pool. Rewards will go towards maintaing and securing the nodes in their different locations across the world, as well as helping us with a much bigger project: driving around Africa to meet local producers and help them access the wider market by setting them up on the Cardano network. More information about our project here: https://bumpydetour.com/
 
 ### Stake Pool
 
- Ticker: DIVY | Location: Amsterdam
+Ticker: DIVY | Location: Amsterdam
+
+### Latest News
+
+Epoch 212: All systems are running properly and updated to the latest version. First block created on August 19th! 6 blocks created in total so far. For this epoch, you will not only get our thank you for your support, but real ada rewards too :-)
  
 ### Relay List
 
@@ -36,8 +39,8 @@ Currently, to increase the number of delegators and delegated stake, and to show
  4. **Up to date**: We make sure to always run the latest versions, and keep our stake pools well maintained and secured.
  5. **2M Self pledge**: We self pledged 2M Ada to our pools which gives us the incentive to achieve the best performance possible, as well as secure our setup.
 
-### Latest News
-- epoch 212: All systems are running properly and updated to the latest version. First block created on August 19th! 6 blocks created in total so far. For this epoch, you will not only get our thank you for your support, but real ada rewards too :-)
+### Archive per Epoch
+
 - epoch 211: All systems are running properly and up to date. We were hoping to create our first block during epoch 211 but the lottery was not with us unfortunately.
 - epoch 210: All systems are running properly and up to date. Active staked Ada increased from 6.4 to 11.2M - thank you for delegating to our pool.
 - epoch 209: All systems are running properly and up to date. Discovery Stake Pool is now appearing in Daedalus.
