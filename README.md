@@ -1,4 +1,3 @@
-Hello!
 
 ![Discovery](https://raw.githubusercontent.com/julienadatrain/ada-train/master/discovery.jpg "Discovery Pool")
 
