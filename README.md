@@ -1,5 +1,8 @@
 Hello!
 
+![Discovery](https://raw.githubusercontent.com/julienadatrain/ada-train/master/discovery.jpg "Discovery Pool")
+
+
 We are Jay & Cris, your Discovery Pool operators. Invested since 2017, we took part in the ITN, running a stake pool on jormungandr for over 3 months (ticker: ADAT).
 
 We believe in Cardano's mission and we want to support the network by running a stake pool. Rewards will go towards maintaing and securing the nodes in their different locations across the world, as well as helping us with a much bigger project: driving around Africa to meet local producers and help them access the wider market by setting them up on the Cardano network. More information about our project here: https://bumpydetour.com/
