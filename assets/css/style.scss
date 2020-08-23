@@ -4,9 +4,10 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  background: #23074d !important;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #cc5333, #23074d) !important;  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #cc5333, #23074d) !important; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #616161;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #9bc5c3, #616161);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #9bc5c3, #616161); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
   }
 
 .footer {
@@ -17,9 +18,6 @@
   display: none !important;
 }
 
-.btn {
-  display: none !important;
-}
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
     color: #bf4e36!important;
