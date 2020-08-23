@@ -9,6 +9,7 @@ We believe in Cardano's mission and we want to support the network by running a 
 ### Stake Pool Ticker
 
 Ticker: DIVY
+
 Fees: 340 + 0%
 
 ### Why delegate to us?
