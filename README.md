@@ -1,7 +1,7 @@
 
 ![Discovery](https://raw.githubusercontent.com/julienadatrain/ada-train/master/discovery.jpg "Discovery Pool")
 
-We are Jay & Cris, your Discovery Pool operators. Invested since 2017, we took part in the ITN, running a stake pool on jormungandr for over 3 months (ticker: ADAT).
+We are Jay & Cris, your Discovery Pool operators. We are in the world of Cardano since 2017, we took part in the recent ITN, running a stake pool on jormungandr for over 3 months (ticker: ADAT).
 
 We believe in Cardano's mission and we want to support the network by running a stake pool. Rewards will go towards maintaing and securing the nodes in their different locations across the world, as well as helping us with a much bigger project: driving around Africa, Asia and the Middle East to meet local producers and creators, and help them access the wider market by setting them up on Cardano.
 
@@ -17,18 +17,19 @@ Fees: 340 + 0%
  1. **0% Fees**: Currently set at 0%, our aim will always be to provide you with the best returns. Enjoy one of the highest ROI on the network!
  2. **Dedicated server**: We run our pools on secure, reliable servers located in Amsterdam, Singapore and New York.
  3. **24/7 Monitored**: We continuously check our pool's performance via monitoring and alerts. It's always warm and sunny at DIVY pool.
- 4. **Up to date**: We keep our stake pool on the latest tested version.
+ 4. **Up to date**: We keep our stake pool updated to the latest tested version.
  5. **2M Self pledge**: We self pledged 2M Ada to our pools which gives us the incentive to achieve the best performance possible.
  6. **Logs**: We update this page regularly with status updates and epoch debrief.
 
 ### Current Epoch
 
-Epoch 214: Celebrating our 10th block on the mainnet. Epoch transition happened with no issues. All systems go.
+Epoch 215: Epoch transition to 215 happened with no issue. All systems go. 1 block minted already, 11 more to go!
 
 ### Archive per Epoch
 
 | Epoch  | Update  |
 |---|---|
+|  214 | All systems were operational - 100% uptime. A record 11 blocks minted!|
 |  213 | All systems were operational - 100% uptime. 4 blocks expected but only 3 created (out of 3 given).|
 |  212 | All systems were operational - 100% uptime. Pool + Relays updated to latest version. First ever block created on August 19th, 6 blocks created in total. |
 |  211 | All systems were operational - 100% uptime. We were hoping to create our first block during epoch 211 but the lottery was not with us. |
