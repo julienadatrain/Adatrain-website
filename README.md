@@ -23,12 +23,13 @@ Fees: 340 + 0%
 
 ### Current Epoch
 
-Epoch 216: Epoch transition to 216 happened with no issue. All systems go.
+Epoch 217: Epoch transition to 217 happened with no issue. All systems go.
 
 ### Archive per Epoch
 
 | Epoch  | Update  |
 |---|---|
+|  216 | All systems were operational - 100% uptime. Another strong epoch for DIVY |
 |  215 | All systems were operational - 100% uptime. A new record with 16 blocks minted! Pool stake increased to 36M. All nodes updated to 1.19.1 |
 |  214 | All systems were operational - 100% uptime. A record 11 blocks minted!|
 |  213 | All systems were operational - 100% uptime. 4 blocks expected but only 3 created (out of 3 given).|
@@ -43,7 +44,7 @@ Epoch 216: Epoch transition to 216 happened with no issue. All systems go.
 We decided the locate our three relay nodes across the world to ensure fast block propagation across the network.
  
 - blue.adatrain.com:6003 (USA)
-- red.adatrain.com:6003 (EUROPE)
+- red.adatrain.com:6003 (USA)
 - purple.adatrain.com:6003 (USA)
 
 ### Future
