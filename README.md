@@ -23,7 +23,7 @@ Fees: 340 + 0%
 
 ### Current Epoch
 
-Epoch 219: All systems go.
+Epoch 219: Please note: Updating to 1.20.0. Some downtime expected on relays. BP will run with no downtime.
 
 ### Archive per Epoch
 
