@@ -23,7 +23,7 @@ Fees: 340 + 0%
 
 ### Current Epoch
 
-Epoch 219: Please note: Updating to 1.20.0. Some downtime expected on relays. BP will run with no downtime.
+Epoch 219: Updated all nodes to 1.20.0. Some minimal downtime were expected on relays. BP has run continuously with no downtime, all blocks assigned minted.
 
 ### Archive per Epoch
 
