@@ -3,16 +3,9 @@
         "url_png_icon_64x64": "https://raw.githubusercontent.com/julienadatrain/ada-train/master/discovery_icon.png",
         "url_png_logo": "https://raw.githubusercontent.com/julienadatrain/ada-train/master/discovery.jpg",
         "location": "London, England",
-        "social": {
-            "twitter_handle": "bumpydetour",
-            "telegram_handle": "BP_Jay"
-        },
-        "company": {
-            "name": "Bumpy Detour - Leave the main roads... take the trails"
-        },
         "about": {
-            "me": "We are Jay and Cris, your DIVY pool operators. We started learning about Cardano in 2017, we ran the ADAT stakepool on the ITN and we are always looking to help the project grow, in every way possible. We are adventurers, investors and soon-to-be (in the next two years) world travellers. We want to make the world a better place.",
-            "server": "Dedicate Server(s). Secure, reliable, across 3 continents. Our pool and relays are running, and they are running well!"
+            "me": "We are Jay and Cris, your DIVY pool operators. We started learning about Cardano in 2017, we ran the ADAT stakepool on the ITN and we are always looking to help the project grow, in every way possible. We are adventurers, investors and world travellers. We want to make the world a better place.",
+            "server": "Dedicated Server(s). Secure, reliable, across 3 continents."
         }
     },
     "my-pool-ids": [
