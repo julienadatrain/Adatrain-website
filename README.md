@@ -12,9 +12,11 @@ Ticker: DIVY
 
 Fees: 340 + 0%
 
+Please note, we will set a fee at 2% on the 1st of November which will become effective after 2 epochs.
+
 ### Why delegate to us?
 
- 1. **0% Fees**: Currently set at 0%, our aim will always be to provide you with the best returns. Enjoy one of the highest ROI on the network!
+ 1. **0% Fees - Moving to 2% on the 1st of November**: Currently set at 0%, our aim will always be to provide you with the best returns. Enjoy one of the highest ROI on the network!
  2. **Dedicated server**: We run our pools on secure, reliable servers located in Amsterdam, Singapore and New York.
  3. **24/7 Monitored**: We continuously check our pool's performance via monitoring and alerts. It's always warm and sunny at DIVY pool.
  4. **Up to date**: We keep our stake pool updated to the latest tested version.
