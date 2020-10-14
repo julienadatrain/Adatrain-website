@@ -25,12 +25,15 @@ Please note, we will set a fee at 2% on the 1st of November which will become ef
 
 ### Current Epoch
 
-Epoch 220: All systems operational.
+Epoch 223: All systems operational.
 
 ### Archive per Epoch
 
 | Epoch  | Update  |
 |---|---|
+|  222 | All systems were operational - 100% uptime. ROAS:6.88% |
+|  221 | All systems were operational - 100% uptime. ROAS: 6.34% |
+|  220 | All systems were operational - 100% uptime. ROAS: 5.98% |
 |  219 | Updated all nodes to 1.20.0. Some minimal downtime were expected on relays. BP has run continuously with no downtime, all blocks assigned minted. 100 Blocks minted milestone + a record 25 blocks minted for this epoch! |
 |  218 | All systems were operational - 100% uptime. ROAS: 4.94. No technical issues or missed blocks, just bad luck with the lottery. |
 |  217 | All systems were operational - 100% uptime. ROAS: 6.85 |
