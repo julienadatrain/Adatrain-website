@@ -10,13 +10,15 @@ We believe in Cardano's mission and we want to support the network by running a 
 
 Ticker: DIVY
 
-Fees: 340 + 0%
+Fees: 340 + 0%. We will set a fee at 2% on the 1st of November.
 
-Please note, we will set a fee at 2% on the 1st of November which will become effective after 2 epochs.
+Ticker: DIVY2
+
+Fees: 340 + 0%. We will set a fee at 2% on the 1st of January.
 
 ### Why delegate to us?
 
- 1. **0% Fees - Moving to 2% on the 1st of November**: Currently set at 0%, our aim will always be to provide you with the best returns. Enjoy one of the highest ROI on the network!
+ 1. **Low Fees**: Currently set at 0%, our aim will always be to provide you with the best returns. Enjoy one of the highest ROI on the network!
  2. **Dedicated server**: We run our pools on secure, reliable servers located in Amsterdam, Singapore and New York.
  3. **24/7 Monitored**: We continuously check our pool's performance via monitoring and alerts. It's always warm and sunny at DIVY pool.
  4. **Up to date**: We keep our stake pool updated to the latest tested version.
@@ -25,12 +27,14 @@ Please note, we will set a fee at 2% on the 1st of November which will become ef
 
 ### Current Epoch
 
-Epoch 223: All systems operational.
+Epoch 225: All systems operational.
 
 ### Archive per Epoch
 
 | Epoch  | Update  |
 |---|---|
+|  224 | All systems were operational - 99% uptime. ROAS:5.79% |
+|  223| All systems were operational - 100% uptime. ROAS:4.75% |
 |  222 | All systems were operational - 100% uptime. ROAS:6.88% |
 |  221 | All systems were operational - 100% uptime. ROAS: 6.34% |
 |  220 | All systems were operational - 100% uptime. ROAS: 5.98% |
@@ -49,11 +53,11 @@ Epoch 223: All systems operational.
  
 ### Relays
 
-Three relay nodes across the world to ensure fast block propagation across the network.
+6 relay nodes across the world to ensure fast block propagation across the network.
 
 ### Future
 
-We plan to add and run an additional 2 relays as well as upgrade our current setup (more RAM/DISK).
+We plan to add and run additional relays as well as upgrade our current setup (more RAM/DISK).
 
 ### Contact us
 
