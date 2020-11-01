@@ -6,19 +6,18 @@ We are Jay & Cris, your Discovery Pool operators. We are in the world of Cardano
 We believe in Cardano's mission and we want to support the network by running a stake pool. Rewards will go towards maintaing and securing the nodes in their different locations across the world, as well as helping us with a much bigger project: driving around Africa, Asia and the Middle East to meet local producers and creators, and help them access the wider market by setting them up on Cardano.
 
 
-### Stake Pool Ticker
+### Stake Pool Tickers
 
 Ticker: DIVY
-
-Fees: 340 + 0%. We will set a fee at 2% on the 1st of November.
+Fees: 340 + 2%
 
 Ticker: DIVY2
-
-Fees: 340 + 0%. We will set a fee at 2% on the 1st of January.
+Fees: 340 + 0%
+(We will set a fee at 2% on the 1st of January)
 
 ### Why delegate to us?
 
- 1. **Low Fees**: Currently set at 0%, our aim will always be to provide you with the best returns. Enjoy one of the highest ROI on the network!
+ 1. **Low Fees**: Currently set at 2% for DIVY and 0% for DIVY2, our aim will always be to provide you with the best returns. Enjoy one of the highest ROI on the network!
  2. **Dedicated server**: We run our pools on secure, reliable servers located in Amsterdam, Singapore and New York.
  3. **24/7 Monitored**: We continuously check our pool's performance via monitoring and alerts. It's always warm and sunny at DIVY pool.
  4. **Up to date**: We keep our stake pool updated to the latest tested version.
@@ -27,21 +26,23 @@ Fees: 340 + 0%. We will set a fee at 2% on the 1st of January.
 
 ### Current Epoch
 
-Epoch 225: All systems operational.
+Epoch 227: All systems operational.
 
 ### Archive per Epoch
 
 | Epoch  | Update  |
 |---|---|
-|  224 | All systems were operational - 99% uptime. ROAS:5.79% |
-|  223| All systems were operational - 100% uptime. ROAS:4.75% |
-|  222 | All systems were operational - 100% uptime. ROAS:6.88% |
-|  221 | All systems were operational - 100% uptime. ROAS: 6.34% |
-|  220 | All systems were operational - 100% uptime. ROAS: 5.98% |
+|  226 | All systems were operational - 100% uptime. Fees updated to 2% for DIVY. Record number of blocks created in one epoch for DIVY. |
+|  225 | All systems were operational - 100% uptime. DIVY2 stake pool launched. |
+|  224 | All systems were operational - 99% uptime. |
+|  223| All systems were operational - 100% uptime. |
+|  222 | All systems were operational - 100% uptime. |
+|  221 | All systems were operational - 100% uptime. |
+|  220 | All systems were operational - 100% uptime. |
 |  219 | Updated all nodes to 1.20.0. Some minimal downtime were expected on relays. BP has run continuously with no downtime, all blocks assigned minted. 100 Blocks minted milestone + a record 25 blocks minted for this epoch! |
-|  218 | All systems were operational - 100% uptime. ROAS: 4.94. No technical issues or missed blocks, just bad luck with the lottery. |
-|  217 | All systems were operational - 100% uptime. ROAS: 6.85 |
-|  216 | All systems were operational - 100% uptime. ROAS: 6.61 |
+|  218 | All systems were operational - 100% uptime. No technical issues or missed blocks, just bad luck with the lottery. |
+|  217 | All systems were operational - 100% uptime.|
+|  216 | All systems were operational - 100% uptime.|
 |  215 | All systems were operational - 100% uptime. A new record with 16 blocks minted! Pool stake increased to 36M. All nodes updated to 1.19.1 |
 |  214 | All systems were operational - 100% uptime. A record 11 blocks minted!|
 |  213 | All systems were operational - 100% uptime. 4 blocks expected but only 3 created (out of 3 given).|
@@ -61,7 +62,7 @@ We plan to add and run additional relays as well as upgrade our current setup (m
 
 ### Contact us
 
-Have questions, need support, or just want to hang out and talk Cardano? Find me on telegram @BP_jay in all the relevant Cardano channels, or on https://t.me/bumpydetour.
+Have questions, need support, or just want to hang out and talk Cardano? Find me on telegram @BP_jay
 
 ### Links
 
