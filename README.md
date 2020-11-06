@@ -32,7 +32,8 @@ Epoch 227: All systems operational.
 
 | Epoch  | Update  |
 |---|---|
-|  226 | All systems were operational - 100% uptime. Fees updated to 2% for DIVY. Record number of blocks created in one epoch for DIVY. |
+|  227 | All systems were operational - 100% uptime. Rewards will be issued as normal |
+|  226 | Despite a successful epoch with 90 blocks created, no rewards have been distributed to the pool or its delegators due to a mistake I made related to pledge and pledge amount. During epoch 226, I created a second pool (DIVY2) and split my pledge equally between them. I thought DIVY's pool certificate, once updated, just needed to match the pledge of the certificate at the immediate time - which it did. I've learned since that it needed to match the certificate's pledge at the start of the epoch - which in retrospect makes sense. I should have waited for one epoch before transferring the pledge difference. The epoch, therefore, ended with a pledge not met, as the pledge amount was under the pledge set at the start of the epoch. This resulted in no rewards distributed. I am truly sorry for this mistake, it was clearly not my intention to abuse your trust by not distributing your rewards. I understand that this mistake impacted all my delegators and whilst it was a relatively easy mistake to make, it's one that had the most extreme of consequences. The rewards can't be claimed back and have now joined the treasury. Whilst I can't provide you with a full compensation for the loss incurred, I will drop the fees to 1% until the end of the year. 
 |  225 | All systems were operational - 100% uptime. DIVY2 stake pool launched. |
 |  224 | All systems were operational - 99% uptime. |
 |  223| All systems were operational - 100% uptime. |
