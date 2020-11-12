@@ -15,13 +15,9 @@ Ticker: DIVY2
 Fees: 340 + 0%
 (0% fee until January)
 
-Ticker: VOYA
-Fees: 340 + 0%
-(0% fee until January)
-
 ### Why delegate to us?
 
- 1. **Low Fees**: Currently set at 1% for DIVY, 0% for DIVY2 and VOYA, our aim will always be to provide you with the best returns. Enjoy one of the highest ROI on the network!
+ 1. **Low Fees**: Currently set at 1% for DIVY, 0% for DIVY2, our aim will always be to provide you with the best returns. Enjoy one of the highest ROI on the network!
  2. **Dedicated server**: We run our pools on secure, reliable servers located across the world.
  3. **24/7 Monitored**: We continuously check our pool's performance via monitoring and alerts.
  4. **Up to date**: We keep our stake pool updated to the latest tested version.
