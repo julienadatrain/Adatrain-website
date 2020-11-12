@@ -1,32 +1,36 @@
 
 ![Discovery](https://raw.githubusercontent.com/julienadatrain/ada-train/master/discovery.jpg "Discovery Pool")
 
-We are Jay & Cris, your Discovery Pool operators. We are in the world of Cardano since 2017, we took part in the recent ITN, running a stake pool on jormungandr for over 3 months (ticker: ADAT).
+We are Jay & Cris, your Discovery Pool operators. We are in the world of Cardano since 2017, we took part in the recent ITN, successfully running a stake pool on jormungandr for over 3 months.
 
-We believe in Cardano's mission and we want to support the network by running a stake pool. Rewards will go towards maintaing and securing the nodes in their different locations across the world, as well as helping us with a much bigger project: driving around Africa, Asia and the Middle East to meet local producers and creators, and help them access the wider market by setting them up on Cardano.
+We believe in Cardano's mission and we want to support the network by running a stake pool. Rewards will go towards maintaining and securing the nodes in their different locations across the world, as well as helping us with a much bigger project: driving around Africa, Asia and the Middle East to meet local producers and creators, and help them access the wider market by setting them up on Cardano.
 
 
 ### Stake Pool Tickers
 
 Ticker: DIVY
-Fees: 340 + 2%
+Fees: 340 + 1%
 
 Ticker: DIVY2
 Fees: 340 + 0%
-(We will set a fee at 2% on the 1st of January)
+(0% fee until January)
+
+Ticker: VOYA
+Fees: 340 + 0%
+(0% fee until January)
 
 ### Why delegate to us?
 
- 1. **Low Fees**: Currently set at 2% for DIVY and 0% for DIVY2, our aim will always be to provide you with the best returns. Enjoy one of the highest ROI on the network!
- 2. **Dedicated server**: We run our pools on secure, reliable servers located in Amsterdam, Singapore and New York.
- 3. **24/7 Monitored**: We continuously check our pool's performance via monitoring and alerts. It's always warm and sunny at DIVY pool.
+ 1. **Low Fees**: Currently set at 1% for DIVY, 0% for DIVY2 and VOYA, our aim will always be to provide you with the best returns. Enjoy one of the highest ROI on the network!
+ 2. **Dedicated server**: We run our pools on secure, reliable servers located across the world.
+ 3. **24/7 Monitored**: We continuously check our pool's performance via monitoring and alerts.
  4. **Up to date**: We keep our stake pool updated to the latest tested version.
  5. **2M Self pledge**: We self pledged 2M Ada to our pools which gives us the incentive to achieve the best performance possible.
  6. **Logs**: We update this page regularly with status updates and epoch debrief.
 
 ### Current Epoch
 
-Epoch 227: All systems operational.
+Epoch 228: All systems operational.
 
 ### Archive per Epoch
 
