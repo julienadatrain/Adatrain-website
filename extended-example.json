@@ -1,14 +1,27 @@
 {
     "info": {
+        "social": {
+            "twitter_handle": "Jay_N_T",
+            "telegram_handle": "BP_Jay",
+        },
         "url_png_icon_64x64": "https://raw.githubusercontent.com/julienadatrain/ada-train/master/discovery_icon.png",
         "url_png_logo": "https://raw.githubusercontent.com/julienadatrain/ada-train/master/discovery.jpg",
         "location": "London, England",
         "about": {
-            "me": "We are Jay and Cris, your DIVY pool operators. We started learning about Cardano in 2017, we ran the ADAT stakepool on the ITN and we are always looking to help the project grow, in every way possible. We are adventurers, investors and world travellers. We want to make the world a better place.",
-            "server": "Dedicated Server(s). Secure, reliable, across 3 continents."
+            "me": "The ADA Train Network team is composed of adventurers, investors and world travellers. We want to make the world a better place.",
+            "server": "Dedicated Servers. Secure, reliable, across all continents."
         }
     },
-    "my-pool-ids": [
-        "654d96593e499e70889eeae16a15ad8682f8349fd1b77726bbbf8a6d"
-    ]
+    "my-pool-ids": {
+        "0": "654d96593e499e70889eeae16a15ad8682f8349fd1b77726bbbf8a6d",
+        "1": "b42eae6ad659bd5e2187975a36816b712422bfd5b64ea32f52781096",
+        "2": "c3c0b2c48d0c9b36f51461530d8a4c7df67f66f05827a5ad831e9e37",
+    },
+    "when-satured-then-recommend": {
+        "0": "b42eae6ad659bd5e2187975a36816b712422bfd5b64ea32f52781096",
+        "1": "c3c0b2c48d0c9b36f51461530d8a4c7df67f66f05827a5ad831e9e37"
+    },
+    "adapool_verif": {
+        "0": "90340ebe20173b23cd2c5267357688ad"
+    }
 }
