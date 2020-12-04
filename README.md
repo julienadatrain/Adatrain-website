@@ -20,6 +20,10 @@ Ticker: DIVY3
 Fees: 340 + 0%
 (0% fee until January, then 2%)
 
+Ticker: DIVY4
+Fees: 340 + 0%
+(0% fee until January, then 2%)
+
 ### Why delegate to us?
 
  1. **Low Fees**: All pools will have a 2% fee. Our aim will always be to provide you with the best returns. Enjoy one of the highest ROI on the network!
@@ -31,17 +35,18 @@ Fees: 340 + 0%
 
 ### Current Epoch
 
-Epoch 232: All systems operational.
+Epoch 233: All systems operational.
 
 ### Archive per Epoch
 
 | Epoch  | Update  |
 |---|---|
-|  231 | Upgrade to all nodes successful with 100% uptime, and we launched DIVY3 pool. |
-|  231 | All systems were operational - 100% uptime. |
-|  230 | All systems were operational - 100% uptime. |
-|  229 | All systems were operational - 100% uptime. |
-|  228 | All systems were operational - 100% uptime. |
+|  232 | All systems were operational and we launched DIVY4 pool. |
+|  231 | Upgrade to all nodes successful and we launched DIVY3 pool. |
+|  231 | All systems were operational |
+|  230 | All systems were operational |
+|  229 | All systems were operational |
+|  228 | All systems were operational |
 |  227 | All systems were operational - 100% uptime. Rewards will be issued as normal |
 |  226 | Despite a successful epoch with 90 blocks created, no rewards have been distributed to the pool or its delegators due to a mistake I made related to the pool's pledge amount. During epoch 226, I created a second pool (DIVY2) and split the pledge equally between the two pools. I thought DIVY's pool certificate, once updated, just needed to match the pledge of the certificate at the immediate time - which it did. I've learned since that it needed to match the certificate's pledge at the start of the epoch - which in retrospect makes sense. I should have waited for one epoch before transferring the pledge difference. The epoch, therefore, ended with a pledge not met, as the pledge amount was under the pledge set at the start of the epoch. This resulted in no rewards distributed. I am truly sorry for this mistake, it was not my intention to abuse your trust by not distributing your rewards. I understand that this mistake impacted all DIVY's delegators and whilst it was a relatively easy mistake to make, it's one that had the most extreme of consequences. The rewards can't be claimed back and have now joined the treasury. While I can't provide you with a full compensation for the loss incurred, I will drop the fees by half, to 1%, until the end of the year as an apology. Please note that I did not earn any rewards for this epoch, from the pledge or pool fees.|
 |  225 | All systems were operational - 100% uptime. DIVY2 stake pool launched. |
