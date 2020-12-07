@@ -3,7 +3,7 @@
 
 We are Jay & Cris, your Discovery Pool operators. We are in the world of Cardano since 2017, we took part in the recent ITN, successfully running a stake pool on jormungandr for over 3 months.
 
-We believe in Cardano's mission and we want to support the network by running a stake pool. Rewards will go towards maintaining and securing the nodes in their different locations across the world, as well as helping us with a much bigger project: driving around Africa, Asia and the Middle East to meet local producers and creators, and help them access the wider market by setting them up on Cardano.
+We believe in Cardano's mission and we want to support the network by running a stake pool. Rewards will go towards maintaining and securing the nodes in their different locations across the world (counting over 15 nodes in 4 continents), as well as helping us with a much bigger project: driving around Africa, Asia and the Middle East to meet local producers and creators, and help them access the wider market by setting them up on Cardano. Project is set to start at mid/end 2021.
 
 
 ### Stake Pool Tickers
@@ -24,6 +24,12 @@ Ticker: DIVY4
 Fees: 340 + 0%
 (0% fee until January, then 2%)
 
+Ticker: DIVY5
+Fees: 340 + 2%
+
+Ticker: DIVY6
+Fees: 340 + 2%
+
 ### Why delegate to us?
 
  1. **Low Fees**: All pools will have a 2% fee. Our aim will always be to provide you with the best returns. Enjoy one of the highest ROI on the network!
@@ -35,12 +41,13 @@ Fees: 340 + 0%
 
 ### Current Epoch
 
-Epoch 233: All systems operational.
+Epoch 234: All systems operational.
 
 ### Archive per Epoch
 
 | Epoch  | Update  |
 |---|---|
+|  233 | All systems were operational. DIVY1 had some bad luck with the lottery, getting only 85% of the blocks expected, but minting 100% of the blocks given. DIVY2 was more lucky and minted all blocks given too. |
 |  232 | All systems were operational and we launched DIVY4 pool. |
 |  231 | Upgrade to all nodes successful and we launched DIVY3 pool. |
 |  231 | All systems were operational |
