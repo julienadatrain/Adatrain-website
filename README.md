@@ -80,7 +80,7 @@ Epoch 234: All systems operational.
  
 ### Relays
 
-6 relay nodes across the world to ensure fast block propagation across the network.
+9 relay nodes across the world to ensure fast block propagation across the network.
 
 ### Future
 
