@@ -3,7 +3,7 @@
 
 We are Jay & Cris, your Discovery Pool operators. We are in the world of Cardano since 2017, we took part in the recent ITN, successfully running a stake pool on jormungandr for over 3 months.
 
-We believe in Cardano's mission and we want to support the network by running a stake pool. Rewards will go towards maintaining and securing the nodes in their different locations across the world (counting over 15 nodes in 4 continents).
+We believe in Cardano's mission and we want to support the network by running a cluster of pools. The fees we receive will go towards maintaining and securing the nodes in their different locations across the world (counting over 15 nodes in 4 continents).
 
 The fees will also help us with a much bigger project: driving around Africa, Asia and the Middle East to meet local producers and creators, and help them access the wider market by setting them up on Cardano. Project is set to start mid/end 2021.
 
