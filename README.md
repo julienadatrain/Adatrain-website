@@ -45,11 +45,11 @@ Fees: 340 + 2%
 
 Epoch 236: All systems operational. This epoch leaderlog: DIVY1 will lead 41 blocks, DIVY2 53 blocks, DIVY3 14 blocks, and DIVY4 only 1 block.
 | TICKER  | Blocks Scheduled | luck % |
-|---|---|
-|DIVY1|41|>100%|
-|DIVY2|53|>120%|
-|DIVY3|14|>100%|
-|DIVY4|1|43% - unlucky this time!|
+|---|---|---|
+| DIVY1 | 41 | >100% |
+| DIVY2 | 53 | >120% |
+| DIVY3 | 14 | >100% |
+| DIVY4 | 1 | 43% - unlucky this time! |
 
 ### Archive per Epoch
 
