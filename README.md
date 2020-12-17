@@ -43,12 +43,20 @@ Fees: 340 + 2%
 
 ### Current Epoch
 
-Epoch 234: All systems operational.
+Epoch 236: All systems operational. This epoch leaderlog: DIVY1 will lead 41 blocks, DIVY2 53 blocks, DIVY3 14 blocks, and DIVY4 only 1 block.
+| TICKER  | Blocks Scheduled | luck % |
+|---|---|
+|DIVY1|41|>100%|
+|DIVY2|53|>120%|
+|DIVY3|14|>100%|
+|DIVY4|1|43% - unlucky this time!|
 
 ### Archive per Epoch
 
 | Epoch  | Update  |
 |---|---|
+|  235 | Updated all relays to 1.24.2 with no issues, we minted all the blocks given except 1 stolen. |
+|  234 | All systems were operational. |
 |  233 | All systems were operational. DIVY1 had some bad luck with the lottery, getting only 85% of the blocks expected, but minting 100% of the blocks given. DIVY2 was more lucky and minted all blocks given too. |
 |  232 | All systems were operational and we launched DIVY4 pool. |
 |  231 | Upgrade to all nodes successful and we launched DIVY3 pool. |
