@@ -24,11 +24,12 @@ Fees: 340 + 2%
 
 ### Current Epoch
 
-Epoch 237: All systems operational.
+Epoch 237: All systems operational.  No issues to report.
 
-This epoch 237 won't be the best (apart from DIVY2) as we've not received many blocks to mint, here's the leaderlog:
-| TICKER  | Blocks Scheduled | luck % |
-|---|---|---|
+This epoch 237 forecast isn't great, (apart from DIVY2) as we've not received many blocks to mint, here's the leaderlog:
+
+| TICKER  | luck % |
+|---|---|
 | DIVY1 | 83% luck |
 | DIVY2 | 109% luck |
 | DIVY3 | 66% luck |
