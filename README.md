@@ -1,62 +1,44 @@
 
 ![Discovery](https://raw.githubusercontent.com/julienadatrain/ada-train/master/discovery.jpg "Discovery Pool")
 
-We are Jay & Cris, your Discovery Pool operators. We are in the world of Cardano since 2017, we took part in the recent ITN, successfully running a stake pool on jormungandr for over 3 months.
+We are Jay & Cris, your Discovery Pool operators. We're in the world of Cardano since 2017, we took part in the ITN, successfully running a stake pool on Jormungandr for over 3 months.
 
 We believe in Cardano's mission and we want to support the network by running a cluster of pools. The fees we receive will go towards maintaining and securing the nodes in their different locations across the world (counting over 15 nodes in 4 continents).
 
-The fees will also help us with a much bigger project: driving around Africa, Asia and the Middle East to meet local producers and creators, and help them access the wider market by setting them up on Cardano. Project is set to start mid/end 2021.
+The fees will also help us with a much bigger project: driving around Africa, Asia and the Middle East to meet local producers and creators, and help them access the wider market by setting them up on Cardano. We've got a lot of projects in mind, from building an app to detect road potholes, fix and reward road potholes to supporting reforestation projects by using satellite scanning. Project is set to start mid/end 2021.
 
 
 ### Stake Pool Tickers
 
-Ticker: DIVY1
-Fees: 340 + 1%
-(1% fee until January, then 2%)
-
-Ticker: DIVY2
-Fees: 340 + 0%
-(0% fee until January, then 2%)
-
-Ticker: DIVY3
-Fees: 340 + 0%
-(0% fee until January, then 2%)
-
-Ticker: DIVY4
-Fees: 340 + 0%
-(0% fee until January, then 2%)
-
-Ticker: DIVY5
-Fees: 340 + 2%
-
-Ticker: DIVY6
+Tickers: DIVY1, DIVY2, DIVY3, DIVY4, DIVY5
 Fees: 340 + 2%
 
 ### Why delegate to us?
 
- 1. **Low Fees**: All pools will have a 2% fee. Our aim will always be to provide you with the best returns. Enjoy one of the highest ROI on the network!
- 2. **Dedicated server**: We run our pools on secure, reliable servers located across the world.
- 3. **24/7 Monitored**: We continuously check our pool's performance via monitoring and alerts.
- 4. **Up to date**: We keep our stake pool updated to the latest tested version.
- 5. **2M Self pledge**: We self pledged 2M Ada to our pools which gives us the incentive to achieve the best performance possible.
+ 1. **Low Fees** set at 2%. Our aim is simple: provide you with the best returns.
+ 2. **Dedicated server**: We run our pools on secure, reliable dedicated servers located across the world.
+ 3. **24/7 Monitored**: We continuously check our pools' performance via monitoring and alerts.
+ 4. **Up to date**: We keep our stake pools updated to the latest tested version.
+ 5. **2M Self pledge**: We self pledged 2M Ada to our pools which is our incentive to achieve the best performance possible.
  6. **Logs**: We update this page regularly with status updates and epoch debrief.
 
 ### Current Epoch
 
-Epoch 236: All systems operational.
+Epoch 237: All systems operational.
 
-This epoch leaderlog:
+This epoch 237 won't be the best (apart from DIVY2) as we've not received many blocks to mint, here's the leaderlog:
 | TICKER  | Blocks Scheduled | luck % |
 |---|---|---|
-| DIVY1 | 41 | >100% |
-| DIVY2 | 53 | >120% |
-| DIVY3 | 14 | >100% |
-| DIVY4 | 1 | 43% - unlucky this time! |
+| DIVY1 | 83% luck |
+| DIVY2 | 109% luck |
+| DIVY3 | 66% luck |
+| DIVY4 | 0% luck |
 
 ### Archive per Epoch
 
 | Epoch  | Update  |
 |---|---|
+|  236 | No issues and great performance from DIVY1, DIVY2 and DIVY3! |
 |  235 | Updated all relays to 1.24.2 with no issues, we minted all the blocks given except 1 stolen. |
 |  234 | All systems were operational. |
 |  233 | All systems were operational. DIVY1 had some bad luck with the lottery, getting only 85% of the blocks expected, but minting 100% of the blocks given. DIVY2 was more lucky and minted all blocks given too. |
@@ -90,11 +72,12 @@ This epoch leaderlog:
  
 ### Relays
 
-9 relay nodes across the world to ensure fast block propagation across the network.
+10 relay nodes across the world to ensure fast block propagation across the network.
 
 ### Future
 
-We plan to add and run additional relays as well as upgrade our current setup (more RAM/DISK).
+DONE:We plan to add and run additional relays as well as upgrade our current setup (more RAM/DISK).
+
 
 ### Contact us
 
