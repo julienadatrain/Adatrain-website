@@ -24,21 +24,14 @@ Fees: 340 + 2%
 
 ### Current Epoch
 
-Epoch 237: All systems operational.  No issues to report.
+Epoch 238: All systems operational.  Added a new relay in EU (DE).
 
-This epoch 237 forecast isn't great, (apart from DIVY2) as we've not received many blocks to mint, here's the leaderlog:
-
-| TICKER  | luck % |
-|---|---|
-| DIVY1 | 83% luck |
-| DIVY2 | 109% luck |
-| DIVY3 | 66% luck |
-| DIVY4 | 0% luck |
 
 ### Archive per Epoch
 
 | Epoch  | Update  |
 |---|---|
+|  237 | No issues to report. All leader blocks were successfully minted. |
 |  236 | No issues and great performance from DIVY1, DIVY2 and DIVY3! |
 |  235 | Updated all relays to 1.24.2 with no issues, we minted all the blocks given except 1 stolen. |
 |  234 | All systems were operational. |
