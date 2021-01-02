@@ -10,7 +10,8 @@ The fees will also help us with a much bigger project: driving around Africa, As
 
 ### Stake Pool Tickers
 
-Tickers: DIVY1, DIVY2, DIVY3, DIVY4, DIVY5
+Ticker: DIVY
+
 Fees: 340 + 2%
 
 ### Why delegate to us?
