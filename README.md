@@ -63,15 +63,6 @@ Epoch 238: All systems operational.  Added a new relay in EU (DE).
 |  210 | All systems were operational - 100% uptime. Active staked Ada increased from 6.4 to 11.2M - thank you for delegating to our pool. |
 |  209 | All systems were operational - 100% uptime. Discovery Stake Pool is now appearing in Daedalus. |
 |  208 | Pool and relays are now live. Our pool was affected by the Daedalus bug and our pool did not appear in the pool list. |
- 
- 
-### Relays
-
-10 relay nodes across the world to ensure fast block propagation across the network.
-
-### Future
-
-DONE:We plan to add and run additional relays as well as upgrade our current setup (more RAM/DISK).
 
 
 ### Contact us
