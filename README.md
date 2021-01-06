@@ -25,13 +25,14 @@ Fees: 340 + 2%
 
 ### Current Epoch
 
-Epoch 238: All systems operational.  Added a new relay in EU (DE).
+Epoch 239: All systems operational. We have a very good block propagation time thanks to our network of relays across the world.
 
 
 ### Archive per Epoch
 
 | Epoch  | Update  |
 |---|---|
+|  238 | Another perfect epoch! All leader blocks were successfully minted. |
 |  237 | No issues to report. All leader blocks were successfully minted. |
 |  236 | No issues and great performance from DIVY1, DIVY2 and DIVY3! |
 |  235 | Updated all relays to 1.24.2 with no issues, we minted all the blocks given except 1 stolen. |
