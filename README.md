@@ -25,13 +25,16 @@ Fees: 340 + 2%
 
 ### Current Epoch
 
-Epoch 239: All systems operational. We have a very good block propagation time thanks to our network of relays across the world.
+Epoch 242: All systems operational. Epic luck from DIVY4. All other pools are performing well and no issue to reports on all nodes.
 
 
 ### Archive per Epoch
 
 | Epoch  | Update  |
 |---|---|
+|  241 | One more relay added (UK). 2 blocks missed (DIVY2) due to block battles lost vs other pools. All other blocks minted! |
+|  240 | All indicators positive. Happy stacking! |
+|  239 | Perfect epoch. |
 |  238 | Another perfect epoch! All leader blocks were successfully minted. |
 |  237 | No issues to report. All leader blocks were successfully minted. |
 |  236 | No issues and great performance from DIVY1, DIVY2 and DIVY3! |
