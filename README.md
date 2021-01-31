@@ -25,13 +25,16 @@ Fees: 340 + 2%
 
 ### Current Epoch
 
-Epoch 242: All systems operational. Epic luck from DIVY4. All other pools are performing well and no issue to reports on all nodes.
+Epoch 245: All systems are operational, updated and working perfectly.
 
 
 ### Archive per Epoch
 
 | Epoch  | Update  |
 |---|---|
+|  244 | Another great epoch across all DIVY pools. Upgraded to 1.25.1 , all pools and relays are ready for Mary HFC. |
+|  243 | Perfect epoch with all blocks minted. |
+|  242 | Great epoch, great performance from all DIVY pools. |
 |  241 | One more relay added (UK). 2 blocks missed (DIVY2) due to block battles lost vs other pools. All other blocks minted! |
 |  240 | All indicators positive. Happy stacking! |
 |  239 | Perfect epoch. |
