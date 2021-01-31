@@ -1,11 +1,11 @@
 
 ![Discovery](https://raw.githubusercontent.com/julienadatrain/ada-train/master/discovery.jpg "Discovery Pool")
 
-We are Jay & Cris, your Discovery Pool operators. We're in the world of Cardano since 2017, we took part in the ITN, successfully running a stake pool on Jormungandr for over 3 months.
+We are Jay & Cris, your Discovery Pool operators. We're in the world of Cardano since 2017, we took part in the ITN, successfully operating Jormungandr for over 3 months.
 
-We believe in Cardano's mission and we want to support the network by running a cluster of pools. The fees we receive will go towards maintaining and securing the nodes in their different locations across the world (counting over 15 nodes in 4 continents).
+We believe in Cardano's mission. The fees we receive will go towards maintaining and securing the nodes in their different locations across the world.
 
-The fees will also help us with a much bigger project: driving around Africa, Asia and the Middle East to meet local producers and creators, and help them access the wider market by setting them up on Cardano. We've got a lot of projects in mind, from building an app to detect road potholes, fix and reward road potholes to supporting reforestation projects by using satellite scanning. Project is set to start mid/end 2021.
+The fees will also help us with a much bigger project: driving around Africa, Asia and the Middle East to meet local producers and creators, and help them access the wider market by setting them up on Cardano. We've got a lot of projects in mind, from building an app to detect road potholes, fix them and reward the worker to supporting reforestation projects by using satellite zone scanning.
 
 
 ### Stake Pool Tickers
@@ -16,11 +16,11 @@ Fees: 340 + 2%
 
 ### Why delegate to us?
 
- 1. **Low Fees** set at 2%. Our aim is simple: provide you with the best returns.
- 2. **Dedicated server**: We run our pools on secure, reliable dedicated servers located across the world.
- 3. **24/7 Monitored**: We continuously check our pools' performance via monitoring and alerts.
- 4. **Up to date**: We keep our stake pools updated to the latest tested version.
- 5. **2M Self pledge**: We self pledged 2M Ada to our pools which is our incentive to achieve the best performance possible.
+ 1. **Fees** Simple, it's 2%.
+ 2. **Servers**: Reliable dedicated servers located across the world.
+ 3. **24/7 Monitored**: Alerts and monitoring is in place.
+ 4. **Up to date**: Alays updated to the latest released version.
+ 5. **2M Ada Self pledge**: Our incentive to achieve the best performance possible.
  6. **Logs**: We update this page regularly with status updates and epoch debrief.
 
 ### Current Epoch
@@ -78,13 +78,3 @@ Our pools are minting blocks, yes. But how performant exactly is our setup ? DIV
 ### Contact us
 
 Have questions, need support, or just want to hang out and talk Cardano? Find me on telegram @BP_jay
-
-### Links
-
-[How to delegate your stake](https://staking.cardano.org/en/delegation/)
-
-### About
-
-Cardano is a public blockchain and cryptocurrency project. It requires decentralized node servers to validate and secure the blockchain for all participants. If you hold Ada (₳) cryptocurrency, you can participate in this process and earn rewards by staking your Ada. 
-
-Your Ada remains within your complete control at all times and you are still allowed to transfer, spend, or move your staking delegation to another stake pool. Jump onboard the Ada Train for staking your Ada and earning rewards.
