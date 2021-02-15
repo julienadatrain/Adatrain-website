@@ -25,7 +25,7 @@ Fees: 340 + 2%
 
 ### Current Epoch
 
-Epoch 246: Another good epoch in perspective. Everything is working and monitored, as usual!
+Epoch 247: Monitoring. Everything is working well.
 
 ### How to check for performance ?
 Our pools are minting blocks, yes. But how performant exactly is our setup ? DIVY pools report the number of blocks assigned at the start of each epoch on pooltool.io. Navigate to [DIVY1](https://pooltool.io/pool/654d96593e499e70889eeae16a15ad8682f8349fd1b77726bbbf8a6d/epochs), [DIVY2](https://pooltool.io/pool/b42eae6ad659bd5e2187975a36816b712422bfd5b64ea32f52781096/delegators), [DIVY3](https://pooltool.io/pool/74e1795dc06165e4a1b55d8930c00379b029c2a145ff225255154129/epochs) or [DIVY4](https://pooltool.io/pool/614bb865b1902f54b540209b37ad404eef1db1589a5d9eafe7a6db71/epochs) and under the metic Assigned Performance, you will find how many blocks were produced versus how many blocks were assigned.
@@ -35,7 +35,8 @@ Our pools are minting blocks, yes. But how performant exactly is our setup ? DIV
 
 | Epoch  | Update  |
 |---|---|
-|  244 | No problem to report. Every system go! |
+|  246 | Everything went to plan and  was closely monitored, as usual. |
+|  245 | No problem to report. Every system go! |
 |  244 | Another great epoch across all DIVY pools. Upgraded to 1.25.1 , all pools and relays are ready for Mary HFC. |
 |  243 | Perfect epoch with all blocks minted. |
 |  242 | Great epoch, great performance from all DIVY pools. |
