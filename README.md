@@ -35,7 +35,7 @@ Our pools are minting blocks, yes. But how performant exactly is our setup ? DIV
 
 | Epoch  | Update  |
 |---|---|
-Epoch 250: No problem to report. All nodes and relays worked hard to create blocks on the Cardano network.
+|  250 | No problem to report. All nodes and relays worked hard to create blocks on the Cardano network. |
 |  249 | Unfortunately, DIVY3 was not lucky this epoch, with no blocks assigned to the pool. Epoch 250 was much better for DIVY3 with 170% luck! All other pools have produced all blocks assigned with 100% uptime. |
 |  248 | All pools working to plan |
 |  247 | 100 working! |
