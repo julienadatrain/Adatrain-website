@@ -25,7 +25,7 @@ Fees: 340 + 2%
 
 ### Current Epoch
 
-Epoch 252: Situation normal, all good.
+Epoch 254: Situation normal, all ok. DIVY3's luck this epoch is poor with 0 blocks assigned. 
 
 ### How to check for performance ?
 Our pools are minting blocks, yes. But how performant exactly is our setup ? DIVY pools report the number of blocks assigned at the start of each epoch on pooltool.io. Navigate to [DIVY1](https://pooltool.io/pool/654d96593e499e70889eeae16a15ad8682f8349fd1b77726bbbf8a6d/epochs), [DIVY2](https://pooltool.io/pool/b42eae6ad659bd5e2187975a36816b712422bfd5b64ea32f52781096/delegators), [DIVY3](https://pooltool.io/pool/74e1795dc06165e4a1b55d8930c00379b029c2a145ff225255154129/epochs) or [DIVY4](https://pooltool.io/pool/614bb865b1902f54b540209b37ad404eef1db1589a5d9eafe7a6db71/epochs) and under the metic Assigned Performance, you will find how many blocks were produced versus how many blocks were assigned.
@@ -35,6 +35,8 @@ Our pools are minting blocks, yes. But how performant exactly is our setup ? DIV
 
 | Epoch  | Update  |
 |---|---|
+|  253 | Great epoch for DIVY pools, no issues to flag, 7.5% ROA for epoch 253 on DIVY3! |
+|  252 | 10% ROA on DIVY3! Good performance on all other pools too, 100% uptime. |
 |  251 | HFC Mary update happened without issue. DIVY pools had some good luck this epoch, all blocks minted! |
 |  250 | No problem to report. All nodes and relays worked hard to create blocks on the Cardano network. |
 |  249 | Unfortunately, DIVY3 was not lucky this epoch, with no blocks assigned to the pool. Epoch 250 was much better for DIVY3 with 170% luck! All other pools have produced all blocks assigned with 100% uptime. |
