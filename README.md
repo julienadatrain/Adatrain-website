@@ -8,15 +8,9 @@ We believe in Cardano's mission. The fees we receive will go towards maintaining
 The fees will also help us with a much bigger project: driving around Africa, Asia and the Middle East to meet local producers and creators, and help them access the wider market by setting them up on Cardano. We've got a lot of projects in mind, from building an app to detect road potholes, fix them and reward the worker to supporting reforestation projects by using satellite zone scanning.
 
 
-### Stake Pool Tickers
-
-Ticker: DIVY
-
-Fees: 340 + 2%
-
 ### Why delegate to us?
 
- 1. **Fees** Simple, it's 2%.
+ 1. **Fees** Simple, it's 2% for DIVY1,DIVY2 and DIVY3. It's 0% for DIVY4!
  2. **Servers**: Reliable dedicated servers located across the world.
  3. **24/7 Monitored**: Alerts and monitoring is in place.
  4. **Up to date**: Alays updated to the latest released version.
