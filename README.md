@@ -35,6 +35,7 @@ Our pools are minting blocks, yes. But how performant exactly is our setup ? DIV
 
 | Epoch  | Update  |
 |---|---|
+|  255 | No issues to report, 100% uptime! |
 |  254 | No issues and 100% uptime. |
 |  253 | Great epoch for DIVY pools, no issues to flag, 7.5% ROA for epoch 253 on DIVY3! |
 |  252 | 10% ROA on DIVY3! Good performance on all other pools too, 100% uptime. |
