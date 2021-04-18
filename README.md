@@ -19,7 +19,7 @@ The fees will also help us with a much bigger project: driving around Africa, As
 
 ### Current Epoch
 
-All DIVY pools are operational and producing blocks.
+All DIVY pools are operational and producing blocks. Upgrading to 1.26.2
 
 ### How to check for performance ?
 Our pools are minting blocks, yes. But how performant exactly is our setup ? DIVY pools report the number of blocks assigned at the start of each epoch on pooltool.io. Navigate to [DIVY1](https://pooltool.io/pool/654d96593e499e70889eeae16a15ad8682f8349fd1b77726bbbf8a6d/epochs), [DIVY2](https://pooltool.io/pool/b42eae6ad659bd5e2187975a36816b712422bfd5b64ea32f52781096/delegators), [DIVY3](https://pooltool.io/pool/74e1795dc06165e4a1b55d8930c00379b029c2a145ff225255154129/epochs) or [DIVY4](https://pooltool.io/pool/614bb865b1902f54b540209b37ad404eef1db1589a5d9eafe7a6db71/epochs) and under the metic Assigned Performance, you will find how many blocks were produced versus how many blocks were assigned.
@@ -29,6 +29,7 @@ Our pools are minting blocks, yes. But how performant exactly is our setup ? DIV
 
 | Epoch  | Update  |
 |---|---|
+|  259 | No issues to report, 100% uptime! |
 |  258 | All BP nodes and relays successfully upgraded to 1.26.1 with no downtime. Great epoch all-round! |
 |  257 | All nodes were online and produced all blocks. |
 |  256 | No issues to report, all nodes were online. Unfortunately, no blocks were assigned to DIVY4 this epoch. |
