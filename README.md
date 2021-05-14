@@ -24,7 +24,7 @@ A few changes this epoch:
 - We successfully upgraded all pools to 1.27.0. We upgraded our hardware from 8M to 16M memory to handle the increase in load.
 - Discovery 1 (DIVY1) has been renamed to Discovery (DIVY).
 - Discovery 2 (DIVY2) has been renamed to Milky Way (MILKY). Fees updated to 1%.
-- Discovery 3 (DIVY3) has been renamed to Galaxy (GLAX). Fees updated to 1%.
+- Discovery 3 (DIVY3) has been renamed to Galaxy (GXY). Fees updated to 1%.
 - Discovery 4 (DIVY4) has been renamed to SuperNova (SUNO).
 - We are also updating this website, with a new version coming soon.
 
