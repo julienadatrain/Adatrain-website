@@ -10,25 +10,39 @@ The fees will also help us with a much bigger project: driving around Africa, As
 
 ### Why delegate to us?
 
- 1. **Fees** Simple, it's 2% for DIVY1,DIVY2 and DIVY3. It's 0% for DIVY4!
+ 1. **Low Fees**
  2. **Servers**: Reliable dedicated servers located across the world.
  3. **24/7 Monitored**: Alerts and monitoring is in place.
  4. **Up to date**: Alays updated to the latest released version.
- 5. **2M Ada Self pledge**: Our incentive to achieve the best performance possible.
+ 5. **2M Ada self pledge**: Our incentive to achieve the best performance possible.
  6. **Logs**: We update this page regularly with status updates and epoch debrief.
 
 ### Current Epoch
 
-All DIVY pools are operational and producing blocks. Upgrading to 1.26.2
+A few changes this epoch:
+
+We successfully upgraded all pools to 1.27.0. We upgraded our hardware from 8M to 16M memory to handle the increase in load.
+Discovery 1 (DIVY1) has been renamed to Discovery (DIVY).
+Discovery 2 (DIVY2) has been renamed to Milky Way (MILKY). Fees updated to 1%.
+Discovery 3 (DIVY3) has been renamed to Galaxy (GLAX). Fees updated to 1%.
+Discovery 4 (DIVY4) has been renamed to SuperNova (SUNO).
+We are also updating this website, with a new version coming soon.
+
+Any questions, please ask me on telegram https://t.me/BP_Jay !
+
 
 ### How to check for performance ?
-Our pools are minting blocks, yes. But how performant exactly is our setup ? DIVY pools report the number of blocks assigned at the start of each epoch on pooltool.io. Navigate to [DIVY1](https://pooltool.io/pool/654d96593e499e70889eeae16a15ad8682f8349fd1b77726bbbf8a6d/epochs), [DIVY2](https://pooltool.io/pool/b42eae6ad659bd5e2187975a36816b712422bfd5b64ea32f52781096/delegators), [DIVY3](https://pooltool.io/pool/74e1795dc06165e4a1b55d8930c00379b029c2a145ff225255154129/epochs) or [DIVY4](https://pooltool.io/pool/614bb865b1902f54b540209b37ad404eef1db1589a5d9eafe7a6db71/epochs) and under the metic Assigned Performance, you will find how many blocks were produced versus how many blocks were assigned.
+Our pools are minting blocks, yes. But how performant exactly is our setup ? Discovery pools report the number of blocks assigned at the start of each epoch on pooltool.io. Navigate to [DIVY1](https://pooltool.io/pool/654d96593e499e70889eeae16a15ad8682f8349fd1b77726bbbf8a6d/epochs), [MILKY](https://pooltool.io/pool/b42eae6ad659bd5e2187975a36816b712422bfd5b64ea32f52781096/delegators), [GLAX](https://pooltool.io/pool/74e1795dc06165e4a1b55d8930c00379b029c2a145ff225255154129/epochs) or [SUNO](https://pooltool.io/pool/614bb865b1902f54b540209b37ad404eef1db1589a5d9eafe7a6db71/epochs) and under the metic Assigned Performance, you will find how many blocks were produced versus how many blocks were assigned.
 
 
 ### Archive per Epoch
 
 | Epoch  | Update  |
 |---|---|
+|  263 | No issues to report, 100% uptime! |
+|  262 | No issues to report, 100% uptime! |
+|  261 | No issues to report, 100% uptime! |
+|  260 | No issues to report, 100% uptime! |
 |  259 | No issues to report, 100% uptime! |
 |  258 | All BP nodes and relays successfully upgraded to 1.26.1 with no downtime. Great epoch all-round! |
 |  257 | All nodes were online and produced all blocks. |
