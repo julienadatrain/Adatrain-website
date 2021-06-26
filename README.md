@@ -19,16 +19,10 @@ The fees will also help us with a much bigger project: driving around Africa, As
 
 ### Current Epoch
 
-A few changes this epoch:
-
-- We successfully upgraded all pools to 1.27.0. We upgraded our hardware from 8M to 16M memory to handle the increase in load.
-- Discovery 1 (DIVY1) has been renamed to Discovery (DIVY).
-- Discovery 2 (DIVY2) has been renamed to Milky Way (MILKY). Fees updated to 1%.
-- Discovery 3 (DIVY3) has been renamed to Galaxy (GXY). Fees updated to 1%.
-- Discovery 4 (DIVY4) has been renamed to SuperNova (SUNO).
-- We are also updating this website, with a new version coming soon.
-
-Any questions, please ask me on telegram https://t.me/BP_Jay !
+Discovery - All good!
+Milky -  Unlucky this epoch, with 5.4 blocks expected, Milky was assigned none. The pool is running completely fine with no downtime, the lack of block is down to the block lottery. 
+Galaxy - Unlucky this epoch with no blocks scheduled. Looking forward to the next epoch!
+Super Nova - 3 blocks scheduled, great luck!
 
 
 ### How to check for performance ?
