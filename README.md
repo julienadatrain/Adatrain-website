@@ -30,17 +30,17 @@ Our pools are minting blocks, yes. But how performant exactly is our setup ? Dis
 
 | Epoch  | Update  |
 |---|---|
-|  275 |  DIVY - All good! MILKY -  Unlucky this epoch, with 5.4 blocks expected, Milky was assigned none. The pool is running completely fine with no downtime, the lack of block is down to the block lottery. GXY - No blocks scheduled unfortunately due to luck probability. SUNO - 3 blocks scheduled, great luck. |
-|  274 |  No issues to report, 100% uptime! |
-|  273 |  No issues to report, 100% uptime! |
-|  272 |  No issues to report, 100% uptime! |
-|  271 |  No issues to report, 100% uptime! |
-|  270 |  No issues to report, 100% uptime! |
-|  269 |  No issues to report, 100% uptime! |
-|  268 |  No issues to report, 100% uptime! |
-|  267 |  No issues to report, 100% uptime! |
-|  266 |  No issues to report, 100% uptime! |
-|  265 |  No issues to report, 100% uptime! |
+|  275 |  DIVY ✅ - All good! MILKY ⚠️ -  Unlucky this epoch, with 5.4 blocks expected, Milky was assigned none. The pool is running completely fine with no downtime, the lack of block is down to the block lottery. GXY ⚠️ - No blocks scheduled unfortunately due to luck probability. SUNO ✅ - 3 blocks scheduled, great luck. |
+|  274 |  ✅ No issues to report, 100% uptime! |
+|  273 |  ✅ No issues to report, 100% uptime! |
+|  272 |  ✅ No issues to report, 100% uptime! |
+|  271 |  ✅ No issues to report, 100% uptime! |
+|  270 |  ✅ No issues to report, 100% uptime! |
+|  269 |  ✅ No issues to report, 100% uptime! |
+|  268 |  ✅ No issues to report, 100% uptime! |
+|  267 |  ✅ No issues to report, 100% uptime! |
+|  266 |  ✅ No issues to report, 100% uptime! |
+|  265 |  ✅ No issues to report, 100% uptime! |
 |  264 | We successfully upgraded all pools to 1.27.0. We upgraded our hardware from 8M to 16M memory to handle the increase in load. Discovery 1 (DIVY1) has been renamed to Discovery (DIVY). Discovery 2 (DIVY2) has been renamed to Milky Way (MILKY). Fees updated to 1%. Discovery 3 (DIVY3) has been renamed to Galaxy (GXY). Fees updated to 1%. Discovery 4 (DIVY4) has been renamed to SuperNova (SUNO). |
 |  263 | No issues to report, 100% uptime! |
 |  262 | No issues to report, 100% uptime! |
