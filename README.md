@@ -11,11 +11,11 @@ The fees we charge go towards maintaining and securing the nodes in their differ
 ### Why delegate to us?
 
  1. **ORIGINAL SPO** with over 4000 blocks minted on the mainnet since epoch 208, we know what we're doing. Your funds are SAFU with us.
- 2. **Low Fees** to maximise your rewards and ROI.
- 3. **Servers**: Reliable dedicated servers in multiple locations and prodivers. No downtime with us!
- 4. **24/7 Monitored**: Alerts and monitoring is in place 24/7.
- 6. **2M Ada self pledge**: Our incentive to achieve the best performance possible, we work hard to maximise our own rewards too.
- 7. **Logs**: We update this page regularly with status updates and epoch debrief.
+ 2. **LOW FEES** to maximise your rewards and ROI.
+ 3. **GREAT SERVERS**: Reliable dedicated servers in multiple locations and prodivers. No downtime with us!
+ 4. **24/7 MONITORED**: Alerts and monitoring is in place 24/7.
+ 6. **2M ADA PLEDGE**: Our incentive to achieve the best performance possible, we work hard to maximise our own rewards too.
+ 7. **LOGS**: We update this page regularly with status updates and epoch debrief.
 
 ### Current Epoch Update
 
