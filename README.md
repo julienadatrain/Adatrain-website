@@ -17,9 +17,9 @@ The fees we charge go towards maintaining and securing the nodes in their differ
  6. **2M Ada self pledge**: Our incentive to achieve the best performance possible, we work hard to maximise our own rewards too.
  7. **Logs**: We update this page regularly with status updates and epoch debrief.
 
-### Current Epoch
+### Current Epoch Update
 
-
+Nothing to report, all pools live.
 
 
 ### How to check for performance ?
