@@ -23,7 +23,7 @@ Nothing to report, all pools live.
 
 
 ### How to check for performance ?
-Our pools are minting blocks, yes. But how performant exactly is our setup ? Discovery pools report the number of blocks assigned at the start of each epoch on pooltool.io. Navigate to [DIVY1](https://pooltool.io/pool/654d96593e499e70889eeae16a15ad8682f8349fd1b77726bbbf8a6d/epochs), [MILKY](https://pooltool.io/pool/b42eae6ad659bd5e2187975a36816b712422bfd5b64ea32f52781096/delegators), [GLAX](https://pooltool.io/pool/74e1795dc06165e4a1b55d8930c00379b029c2a145ff225255154129/epochs) or [SUNO](https://pooltool.io/pool/614bb865b1902f54b540209b37ad404eef1db1589a5d9eafe7a6db71/epochs) and under the metic Assigned Performance, you will find how many blocks were produced versus how many blocks were assigned.
+Our pools are minting blocks, yes. But how performant exactly is our setup ? Navigate to [DIVY](https://pooltool.io/pool/654d96593e499e70889eeae16a15ad8682f8349fd1b77726bbbf8a6d/epochs), [MILKY](https://pooltool.io/pool/b42eae6ad659bd5e2187975a36816b712422bfd5b64ea32f52781096/delegators), [GLAX](https://pooltool.io/pool/74e1795dc06165e4a1b55d8930c00379b029c2a145ff225255154129/epochs) or [SUNO](https://pooltool.io/pool/614bb865b1902f54b540209b37ad404eef1db1589a5d9eafe7a6db71/epochs) and under the metic Assigned Performance, you will find how many blocks were produced versus how many blocks were assigned.
 
 
 ### Archive per Epoch
