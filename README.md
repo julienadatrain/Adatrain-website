@@ -103,4 +103,4 @@ Our pools are minting blocks, yes. But how performant exactly is our setup ? Dis
 
 ### Contact us
 
-Have questions, need support, or just want to hang out and talk Cardano? Find me on telegram @BP_jay
+Have questions, need support, or just want to hang out and talk Cardano? Find me on telegram **@BP_jay** or twitter **@Jay_N_T**
