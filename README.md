@@ -1,28 +1,25 @@
 
 ![Discovery](https://raw.githubusercontent.com/julienadatrain/ada-train/master/discovery.jpg "Discovery Pool")
 
-We are Jay & Cris, your Discovery Pool operators. We're in the world of Cardano since 2017, we took part in the ITN, successfully operating Jormungandr for over 3 months.
+We are Jay & Cris, your Pool operators. We're in the world of Cardano since 2017, we took part in the ITN (incentivized testnet), successfully operating Jormungandr, an early version of the node, for over 3 months.
 
-We believe in Cardano's mission. The fees we receive will go towards maintaining and securing the nodes in their different locations across the world.
+We are big time believers in Cardano's mission, we've been here since day zero and we plan to remain active for the very long term.
 
-The fees will also help us with a much bigger project: driving around Africa, Asia and the Middle East to meet local producers and creators, and help them access the wider market by setting them up on Cardano. We've got a lot of projects in mind, from building an app to detect road potholes, fix them and reward the worker to supporting reforestation projects by using satellite zone scanning.
+The fees we charge go towards maintaining and securing the nodes in their different locations across the world and also help us with a much bigger project: driving around Africa, Asia and the Middle East to meet local producers and creators, and help them access the wider market by setting them up on Cardano. We've got a lot of projects in mind, from building an app to detect road potholes, fix them and reward the workers, to supporting reforestation projects by using satellite zone scanning.
 
 
 ### Why delegate to us?
 
- 1. **Low Fees**
- 2. **Servers**: Reliable dedicated servers located across the world.
- 3. **24/7 Monitored**: Alerts and monitoring is in place.
- 4. **Up to date**: Alays updated to the latest released version.
- 5. **2M Ada self pledge**: Our incentive to achieve the best performance possible.
- 6. **Logs**: We update this page regularly with status updates and epoch debrief.
+ 1. **ORIGINAL SPO** with over 4000 blocks minted on the mainnet since epoch 208, we know what we're doing. Your funds are SAFU with us.
+ 2. **Low Fees** to maximise your rewards and ROI.
+ 3. **Servers**: Reliable dedicated servers in multiple locations and prodivers. No downtime with us!
+ 4. **24/7 Monitored**: Alerts and monitoring is in place 24/7.
+ 6. **2M Ada self pledge**: Our incentive to achieve the best performance possible, we work hard to maximise our own rewards too.
+ 7. **Logs**: We update this page regularly with status updates and epoch debrief.
 
 ### Current Epoch
 
-Discovery - All good!
-Milky -  Unlucky this epoch, with 5.4 blocks expected, Milky was assigned none. The pool is running completely fine with no downtime, the lack of block is down to the block lottery. 
-Galaxy - Unlucky this epoch with no blocks scheduled. Looking forward to the next epoch!
-Super Nova - 3 blocks scheduled, great luck!
+
 
 
 ### How to check for performance ?
@@ -33,6 +30,18 @@ Our pools are minting blocks, yes. But how performant exactly is our setup ? Dis
 
 | Epoch  | Update  |
 |---|---|
+
+|  275 |  DIVY - All good! MILKY -  Unlucky this epoch, with 5.4 blocks expected, Milky was assigned none. The pool is running completely fine with no downtime, the lack of block is down to the block lottery. GXY - No blocks scheduled unfortunately due to luck probability. SUNO - 3 blocks scheduled, great luck. |
+|  274 |  No issues to report, 100% uptime! |
+|  273 |  No issues to report, 100% uptime! |
+|  272 |  No issues to report, 100% uptime! |
+|  271 |  No issues to report, 100% uptime! |
+|  270 |  No issues to report, 100% uptime! |
+|  269 |  No issues to report, 100% uptime! |
+|  268 |  No issues to report, 100% uptime! |
+|  267 |  No issues to report, 100% uptime! |
+|  266 |  No issues to report, 100% uptime! |
+|  265 |  No issues to report, 100% uptime! |
 |  264 | We successfully upgraded all pools to 1.27.0. We upgraded our hardware from 8M to 16M memory to handle the increase in load. Discovery 1 (DIVY1) has been renamed to Discovery (DIVY). Discovery 2 (DIVY2) has been renamed to Milky Way (MILKY). Fees updated to 1%. Discovery 3 (DIVY3) has been renamed to Galaxy (GXY). Fees updated to 1%. Discovery 4 (DIVY4) has been renamed to SuperNova (SUNO). |
 |  263 | No issues to report, 100% uptime! |
 |  262 | No issues to report, 100% uptime! |
