@@ -30,6 +30,10 @@ Our pools are minting blocks, yes. But how performant exactly is our setup ? Nav
 
 | Epoch  | Update  |
 |---|---|
+|  279 |  **DIVY** ✅ - Great luck and pool performance. <br/><br/> **MILKY** ✅ - Pool is fully working but luck this epoch is below 100% for the stake delegated. <br/><br/> **GXY** ✅ - Great luck and pool performance. <br/><br/> **SUNO** ⚠️ - No blocks scheduled this epoch unfortunately. |
+|  278 |  **DIVY** ✅ - Perfect epoch with good luck and performance. <br/><br/> **MILKY** ✅ -  Great luck and pool performance. <br/><br/> **GXY** ✅ - Exceptional luck and great performance. <br/><br/> **SUNO** ✅ - Luck was not great, the pool minted all the scheduled blocks. |
+|  277 | ✅ No issues to report, 100% uptime!  |
+|  276 | ✅ No issues to report, 100% uptime! |
 |  275 |  **DIVY** ✅ - Great luck and pool performance. <br/><br/> **MILKY** ⚠️ - Unlucky this epoch, with 5.4 blocks expected, Milky was assigned none. The pool is running completely fine with no downtime, the lack of block is down to the block lottery. <br/><br/> **GXY** ⚠️ - No blocks scheduled unfortunately due to luck probability with circa 1M staked, we'll have better luck next epoch. <br/><br/> **SUNO** ✅ - 3 blocks scheduled, great luck. |
 |  274 |  ✅ No issues to report, 100% uptime! |
 |  273 |  ✅ No issues to report, 100% uptime! |
