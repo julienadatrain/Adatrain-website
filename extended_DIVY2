@@ -1,14 +1,9 @@
 {
     "info": {
         "social": {
-            "twitter_handle": "Jay_N_T",
-            "telegram_handle": "BP_Jay"
+            "twitter_handle": "StakeMilky"
         },
-        "url_png_icon_64x64": "https://raw.githubusercontent.com/julienadatrain/ada-train/master/discovery_icon.png",
-        "url_png_logo": "https://raw.githubusercontent.com/julienadatrain/ada-train/master/discovery.jpg",
-        "about": {
-            "me": "We are dreamers, adventurers, investors and world travellers. Togoether, let's make the world a better place.",
-            "server": "Dedicated Servers. Secure, reliable, across all continents."
-        }
+        "url_png_icon_64x64": "https://i.ibb.co/KNHj0jG/milky.png",
+        "url_png_logo": "https://i.ibb.co/8jp605m/milkytitle.png"
     }
 }
